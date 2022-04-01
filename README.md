@@ -1,3 +1,3 @@
 # Python-Challenge
-Analysis or Banking and Voting Data
+Analysis of Banking and Voting Data
 
