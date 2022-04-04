@@ -1,3 +1,7 @@
+Financial Analysis
+
+----------------------------
+
 Total months: 86
 Total Revenue in period: $ 38382578
 Average monthly change in Revenue : $-2315.1176470588234
